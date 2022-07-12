@@ -1,6 +1,6 @@
 ### Hi there,
 
-I am a junior software developer. I focus on Java-Android and Flutter. Here I share my projects that I wrote while learning programming. Please share your opinion, comment with me.
+I am a junior software developer. I focus on Java-Android and Flutter. Here I share my projects that I wrote while learning programming. Please share your opinion, comment me.
 
 ### My Social Media:
 
