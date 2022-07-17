@@ -4,7 +4,6 @@ I am a junior software developer. I focus on Java-Android and Flutter. Here I sh
 
 ### My Social Media:
 
-please send me your comments.
 
 [![name](http://ahmetbalkan.com.tr/instagram1.png)](https://www.instagram.com/balkan.exe/)
 [![name](http://ahmetbalkan.com.tr/twitter1.png)](https://twitter.com/)
